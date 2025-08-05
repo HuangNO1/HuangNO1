@@ -58,6 +58,7 @@ I am a developer with a solid background in full-stack engineering, now pursuing
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHuangNO1%26show_icons%3Dtrue%26theme%3Dradical%26locale%3Den" alt="HuangNO1's GitHub stats" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHuangNO1%26layout%3Dcompact%26theme%3Dradical%26locale%3Den" alt="Top Langs" />
 </p>
+</p>
 📫 Connect with Me
 
 <p align="left">
