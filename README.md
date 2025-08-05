@@ -11,7 +11,7 @@ I am a developer with a solid background in full-stack engineering, now pursuing
 
 - 🛠️ **Professional Experience:**
   - IT Full-Stack Engineer | Z Corporation (2022–2024)
-  - Embedded Application Engineer Intern | (2021–2022)
+  - Embedded Application Engineer Intern | J Corporation (2021–2022)
 
 - 💡 **Research Interests:** Computer Vision (CV), Vision-Language Models (VLM)
 
