@@ -113,11 +113,20 @@ A modern, universal laboratory website framework with content management system.
 
 ### [Stellar Neo - Photo Framing & Watermarking Tool](https://github.com/HuangNO1/Stellar-Neo)
 
-A modern, elegant, and powerful desktop application crafted for photographers and creators. It intelligently recognizes EXIF data, provides a highly customizable watermarking system, and supports efficient batch processing, all within a beautiful UI.
+A modern, elegant, and powerful desktop application meticulously crafted for photographers and creators. Born out of frustration with existing watermarking applications that fail to properly handle EXIF data from photos edited with tools like LRC or Luminar Neo, Stellar Neo provides a truly "out-of-the-box," detail-oriented, and completely free solution.
+
+**Key Features:**
+- 🧠 **Intelligent EXIF Recognition**: Automatically reads camera parameters and matches brand logos
+- 🎨 **Powerful Watermark System**: Logo and text watermarks with full customization control
+- 🖼️ **Flexible Frame Editing**: Solid color or blurred photo backgrounds with fine-tuned padding
+- ⚡ **Efficient Batch Processing**: Drag-and-drop import with progress tracking
+- 🎭 **Modern UI**: VS Code-inspired interface with Light/Dark/System themes
+- 🌍 **Multi-language Support**: Traditional Chinese, Simplified Chinese, English
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt" />
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/UI-PyQt6-brightgreen?style=for-the-badge&logo=qt" alt="PyQt6" />
+  <img src="https://img.shields.io/github/v/release/HuangNO1/stellar-neo?style=for-the-badge&color=blueviolet" alt="Release" />
 </p>
 
 ---
