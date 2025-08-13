@@ -90,7 +90,26 @@ I am a developer with a solid background in full-stack engineering, now pursuing
 
 ---
 
-## ✨ Featured Project
+## ✨ Featured Projects
+
+### [Lab Website Framework](https://github.com/HuangNO1/stellar-lab-web)
+
+A modern, universal laboratory website framework with content management system. Built with Vue 3 and Flask, this framework offers a complete laboratory website solution with both public-facing pages and a comprehensive admin dashboard. It's designed to be universal - allowing easy customization of school logos, laboratory information, and branding to suit different institutions.
+
+**Key Features:**
+- 🌐 Dynamic public website with member showcase, publications, and project management
+- 🛠️ Comprehensive CMS with dashboard and content management capabilities
+- 🌍 Full internationalization (Chinese/English) with localized content
+- 🎨 Light/Dark theme support throughout all pages
+- 📱 Responsive design across all devices
+- 🐳 Docker containerization for easy deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-Vue%203-4FC08D?style=for-the-badge&logo=vue.js" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask" alt="Flask" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Deploy-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ### [Stellar Neo - Photo Framing & Watermarking Tool](https://github.com/HuangNO1/Stellar-Neo)
 
